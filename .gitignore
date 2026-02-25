@@ -5,3 +5,7 @@ Assignment_2/bert_output/
 # local caches
 Assignment_2/.mplconfig/
 .mplconfig/
+
+venv/
+__pycache__/
+.ipynb_checkpoints/
